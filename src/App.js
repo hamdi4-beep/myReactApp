@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <Navbar></Navbar>
-      <p>Testing some stuff!</p>
       <div className="content">
         <Router>
           <Switch>
