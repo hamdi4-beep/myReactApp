@@ -1,0 +1,27 @@
+{
+    "blogs": [{
+        "title": "Resident Evil 6",
+        "author": "Capcom",
+        "id": 1
+    },
+    {
+        "title": "Rayman Adventure",
+        "author": "Ubisoft",
+        "id": 2
+    },
+    {
+        "title": "Little Big Planet",
+        "author": "Molecule",
+        "id": 3
+    },
+    {
+        "title": "Silent Hill",
+        "author": "Konami",
+        "id": 4
+    },
+    {
+        "title": "No Game",
+        "author": "Unknown",
+        "id": 5
+    }]
+}
