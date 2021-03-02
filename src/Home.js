@@ -8,7 +8,7 @@ function Home() {
         <div className="home">
             {error && <div>{error}</div>}
             {isloading && <div>Loading...</div>}
-            <BlogList blogs={blogs} title="All games"></BlogList>
+            <BlogList blogs={blogs} title="All Games"></BlogList>
             <BlogList blogs={blogs.filter(function(blog) {
                 return blog.author === "Unknown";
             })} title="Unknown"></BlogList>
