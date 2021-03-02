@@ -1,7 +1,7 @@
 function Create() {
     return (
         <div className="create">
-            <h1>Create new Blog</h1>
+            <h2>Create new Blog</h2>
         </div>
     );
 }
